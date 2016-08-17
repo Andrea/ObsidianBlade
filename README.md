@@ -1,5 +1,8 @@
 ObsidianBlade - A semantic coloring theme for IntelliJ IDEA
 ----------------------------------------------------------
+TODO: 
+- support clear background
+- keywords are white-sih 
 
 ###Scala
 
